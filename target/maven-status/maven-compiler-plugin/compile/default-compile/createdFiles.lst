@@ -1,0 +1,7 @@
+app\TransactionRequest.class
+app\WalletController.class
+app\WebSecurityConfig.class
+app\SecurityConfig.class
+app\WalletService.class
+WalletApplication.class
+app\Wallet.class
